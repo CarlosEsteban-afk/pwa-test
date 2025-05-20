@@ -1,0 +1,24 @@
+{
+  "name": "TattooAR",
+  "short_name": "TattooAR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Explora y prueba tatuajes en realidad aumentada antes de hacerlos.",
+  "lang": "es-CL",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
